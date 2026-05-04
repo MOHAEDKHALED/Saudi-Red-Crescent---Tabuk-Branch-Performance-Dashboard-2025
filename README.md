@@ -71,26 +71,6 @@ It provides real-time insights into the achievement of strategic and operational
 - **Git + GitHub**
 
 ---
-
-## 📁 Repository Structure
-
-```bash
-Saudi-Red-Crescent-Tabuk-Dashboard/
-├── README.md
-├── Data Source.xlsx
-├── Dashboard.pbix
-├── KPIS.docx
-├── الخطة التشغيلية (1).pptx
-├── docs/
-│   ├── Data-Dictionary.md
-│   ├── Requirements.md
-│   └── User-Guide.md
-├── images/
-│   ├── logo.png
-│   └── dashboard-screenshots/
-└── reports/
-🚀 How to Use
-
 Clone the repository
 Open Dashboard.pbix
 Refresh the data (Home → Refresh)
@@ -114,3 +94,24 @@ Mohamed Khaled – BI Developer & Analyst
 📄 License
 This project is confidential and intended for internal use by Saudi Red Crescent Authority - Tabuk Branch.
 © 2025 Saudi Red Crescent Authority
+
+## 📁 Repository Structure
+
+```bash
+Saudi-Red-Crescent-Tabuk-Dashboard/
+├── README.md
+├── Data Source.xlsx
+├── Dashboard.pbix
+├── KPIS.docx
+├── الخطة التشغيلية (1).pptx
+├── docs/
+│   ├── Data-Dictionary.md
+│   ├── Requirements.md
+│   └── User-Guide.md
+├── images/
+│   ├── logo.png
+│   └── dashboard-screenshots/
+└── reports/
+🚀 How to Use
+https://github.com/MOHAEDKHALED?tab=repositories
+
