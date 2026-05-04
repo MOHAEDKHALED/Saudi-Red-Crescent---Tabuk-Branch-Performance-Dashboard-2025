@@ -89,3 +89,28 @@ Saudi-Red-Crescent-Tabuk-Dashboard/
 │   ├── logo.png
 │   └── dashboard-screenshots/
 └── reports/
+🚀 How to Use
+
+Clone the repository
+Open Dashboard.pbix
+Refresh the data (Home → Refresh)
+Use slicers to explore performance by Owner, Goal, Quarter, or Month
+
+
+📈 Future Enhancements
+
+Automated monthly data import
+Predictive forecasting
+Mobile-optimized version
+Power BI Service deployment with scheduled refresh
+RAG (Red-Amber-Green) status automation
+
+
+👥 Contributors
+
+Mohamed Khaled – BI Developer & Analyst
+
+
+📄 License
+This project is confidential and intended for internal use by Saudi Red Crescent Authority - Tabuk Branch.
+© 2025 Saudi Red Crescent Authority
